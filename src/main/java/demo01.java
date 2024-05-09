@@ -6,5 +6,6 @@ public class demo01 {
         System.out.println("hot-fix");
         System.out.println("hot-fix-2");
         System.out.println("冲突合并master");
+        System.out.println("冲突合并hot-fix");
     }
 }
