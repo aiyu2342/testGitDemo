@@ -8,5 +8,6 @@ public class demo01 {
         System.out.println("冲突合并master");
         System.out.println("冲突合并hot-fix");
         System.out.println("push ssh ");
+           System.out.println("pull ssh ");
     }
 }
